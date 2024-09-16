@@ -6,22 +6,22 @@
 #include <ThingSpeak.h> // Include ThingSpeak library
 
 // Your WiFi credentials
-const char* ssid = "iQOO Z7 PRO";        // Replace with your WiFi SSID
-const char* password = "11111111"; // Replace with your WiFi Password
+const char* ssid = "ssid";        // Replace with your WiFi SSID
+const char* password = "pass"; // Replace with your WiFi Password
 
 // OpenWeatherMap API details
 const char* weatherServer = "http://api.openweathermap.org/data/2.5/weather?q=Ballari&appid=c0b3ae62a144cce1cae4eae3ca0e5f7a";
 
-const char* account_sid = "  ";
-const char* auth_token = "b0fac5ca6175f07cbc5d45efb314a9ac";
-const char* to_number = "+918197204255";
-const char* from_number = "+12512378717";
+const char* account_sid = "twilio_sid";
+const char* auth_token = "twilio_token";
+const char* to_number = "to_num";
+const char* from_number = "from_num";
 const char* twilio_sms_url = "https://api.twilio.com/2010-04-01/Accounts/< twilio account sid>/Messages.json";
 const char* twilio_call_url = "https://api.twilio.com/2010-04-01/Accounts/< twilio account sid>/Calls.json";
 
 // ThingSpeak API details
-unsigned long myChannelNumber = 2615369;  // Replace with your ThingSpeak channel number
-const char* myWriteAPIKey = "BWPGWDC4OPR4GE8H"; // Replace with your ThingSpeak Write API Key
+unsigned long myChannelNumber = channel_num;  // Replace with your ThingSpeak channel number
+const char* myWriteAPIKey = "channel_api_key"; // Replace with your ThingSpeak Write API Key
 
 // Pins
 const int trigPin1 = D1;  // GPIO 5
