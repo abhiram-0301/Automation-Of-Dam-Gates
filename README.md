@@ -1,5 +1,8 @@
-# Automation-Of-Dam-Gates
+# Automation-Of-Dam-Gates: Develop a system to automate the opening of dam gates based on 
+water levels, displaying the status of gates, water level (open/closed) 
+on an interface.
 
+# Introduction:
 Automation has become a cornerstone of modern infrastructure, driving advancements in efficiency, safety, 
 and adaptability. In this context, the "Automation of Dam Gates" project represents an innovative approach to 
 integrating smart technology with traditional water management systems. With water resources increasingly 
@@ -16,6 +19,7 @@ measurements of the water height. Additionally, weather data is retrieved from o
 insights into factors such as rainfall, humidity, and wind speed, which are crucial for predicting potential water 
 level fluctuations.
 
+#Overview:
 The automation system is designed to function autonomously, responding swiftly to changing conditions. 
 Based on predefined thresholds and predictive analytics, the dam gates are operated using servo motors, which 
 adjust the flow of water as needed. This proactive control mechanism helps prevent flooding during heavy 
