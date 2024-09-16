@@ -20,7 +20,7 @@ insights into factors such as rainfall, humidity, and wind speed, which are cruc
 level fluctuations.
 
 #Overview:
-The automation system is designed to function autonomously, responding swiftly to changing conditions. 
+The automation system is designed to function autonomously, responding swiftly to changing conditions.
 Based on predefined thresholds and predictive analytics, the dam gates are operated using servo motors, which 
 adjust the flow of water as needed. This proactive control mechanism helps prevent flooding during heavy 
 rains or low water flow during dry periods. To enhance reliability, the system is equipped with a multi-tiered 
