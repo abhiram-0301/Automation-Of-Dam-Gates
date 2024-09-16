@@ -12,7 +12,7 @@ of monitoring environmental conditions and controlling dam gates in real-time, r
 and enhancing overall responsiveness.
 
 The central objective of this project is to develop a smart dam gate management system using the ESP8266 
-microcontroller, an affordable yet powerful IoT device. The system relies on a combination of sensors, 
+microcontroller, an affordable yet powerful IoT device. The system relies on a combination of sensors,
 actuators, and communication modules to automate the control of dam gates based on real-time data. The key 
 component for monitoring water levels is an ultrasonic sensor, which provides continuous and precise 
 measurements of the water height. Additionally, weather data is retrieved from online APIs, offering real-time 
