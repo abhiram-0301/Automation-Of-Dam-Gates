@@ -11,5 +11,6 @@ The automation system is designed to function autonomously, responding swiftly t
 
 This project not only highlights the potential of IoT in enhancing traditional water infrastructure but also emphasizes the role of data-driven decision-making in managing natural resources. By combining real-time data processing, predictive analytics, and automation, the "Automation of Dam Gates" project showcases a forward-thinking approach to water management that aligns with the evolving demands of smart infrastructure and sustainable development.environmental safety.
 
-#Block Diagram:
+# Block Diagram:                                        
+
 ![WhatsApp Image 2024-09-16 at 13 19 31_6bc64856](https://github.com/user-attachments/assets/23c13c03-909c-44ed-826a-c8957788f0c7)
