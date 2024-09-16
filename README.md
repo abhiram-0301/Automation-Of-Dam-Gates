@@ -16,7 +16,6 @@ component for monitoring water levels is an ultrasonic sensor, which provides co
 measurements of the water height. Additionally, weather data is retrieved from online APIs, offering real-time 
 insights into factors such as rainfall, humidity, and wind speed, which are crucial for predicting potential water 
 level fluctuations.
-
 #Overview:
 The automation system is designed to function autonomously, responding swiftly to changing conditions.
 Based on predefined thresholds and predictive analytics, the dam gates are operated using servo motors, which 
